@@ -8,8 +8,8 @@ Datasets and descriptions of the datasets can be found below:
 
 The analysis and predictive modeling was completed using Python.  Below are the package requirements to run the analysis:
 
-Pandas Version:  1.3.2
-Numpy Version:  1.21.2
-Seaborn Version:  0.11.2
-Sci-kit learn Version:  1.0
-Matplotlib Version:  3.4.3
+- Pandas Version:  1.3.2
+- Numpy Version:  1.21.2
+- Seaborn Version:  0.11.2
+- Sci-kit learn Version:  1.0
+- Matplotlib Version:  3.4.3
